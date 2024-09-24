@@ -1,0 +1,4 @@
+# Requirements for Cloud Deployment
+
+# Add your dependencies here
+flask
